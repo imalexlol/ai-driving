@@ -1,9 +1,8 @@
 # ai-driving
 AI driving via camera w/ LiDAR
 
-Contributers:  
-alex - Idea / Coding / Prototype  
-Anon. - Idea / Coding / Prototype  
+Contributors:  
+<b>Alex</b> - Idea / Coding / Prototype   
 
 <hr>
 
@@ -13,6 +12,12 @@ Anon. - Idea / Coding / Prototype
 - [ ] Prototype
 
 <hr>  
+
+<b>Current parts</b>
+- [ ] Raspberry Pi 3 Model B
+- [ ] Arduino
+- [ ] RC Car
+- [ ] Attachments (Motors / LiDAR / etc.)
 
 ## Refrences  
 
