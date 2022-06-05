@@ -14,8 +14,8 @@ Contributors:
 <hr>  
 
 <b>Current parts</b>
-- [ ] Raspberry Pi 3 Model B
-- [ ] Arduino
+- [x] ~~Raspberry Pi 3 Model B~~ Raspberry Pi 4 Model B
+- [x] Arduino
 - [ ] RC Car
 - [ ] Attachments (Motors / LiDAR / etc.)
 
